@@ -1,0 +1,14 @@
+parser_1.py::MyTestClass::test_find_army_of_robots_on_xkcd_desert_island
+--------------------------------------------------------------------
+Last Page: https://mgroup-spb.ru/contact/
+ Duration: 75.57s
+  Browser: Chrome 116.0.5845.180
+   Driver: chromedriver 116.0.5845.96
+Timestamp: 1694467513  (Unix Timestamp)
+     Date: Tuesday, 12 September 2023
+     Time: 3:25:13 AM  (Центральная Азия (зима), UTC+06:00)
+--------------------------------------------------------------------
+Traceback:
+  File "c:\Users\MSI Modern 15\Documents\My Project\Parser\avito-parser\parser_1.py", line 24, in test_find_army_of_robots_on_xkcd_desert_island
+    time.sleep()
+Exception: time.sleep() takes exactly one argument (0 given)
